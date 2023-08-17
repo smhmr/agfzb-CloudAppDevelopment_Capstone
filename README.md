@@ -1,9 +1,21 @@
-# Final Project Template
+# FullStack Cloud App Development - Car Dealership Reviews
 
-The final project for this course has several steps that you must complete. 
-To give you an overview of the whole project, all the high-level steps are listed below. 
-The project is then divided into several smaller labs that give the detailed instructions for each step. 
-You must complete all the labs to successfully complete the project.
+A portfolio of hands-on projects involving a variety of popular technologies and programming languages for full-stack cloud application development.
+
+Includes publishing HTML pages to a cloud object store.
+
+Create an app for logging in and publishing reviews using HTML, CSS and JavaScript.
+
+Deploying an AI application in Cloud Foundry using DevOps principles and the CI/CD toolset.
+
+using a NoSQL database, Node.js and react. 
+
+an RDBMS application with Django ORM and Bootstrap.
+
+An application built with microservices and serverless.
+
+Here's the project Visualization:
+![product-screenshot](https://github.com/XiaoSanchez/agfzb-CloudAppDevelopment_Capstone/blob/master/dealership-architecture.png)
 
 ## Project Breakdown
 
